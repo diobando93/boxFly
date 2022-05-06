@@ -1,4 +1,4 @@
-package com.boxFly.models;
+package com.boxFly.boxFly.models;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
